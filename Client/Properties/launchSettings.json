@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Client": {
+      "commandName": "Project",
+      "commandLineArgs": "Connections=1 Url=http://localhost:65141/signalr RedisConnectString=192.168.50.233:6379,192.168.50.221:6379,192.168.50.234:6379 MessageRate=1 SendPollTime=1 ConnectInterval=500"
+    }
+  }
+}
